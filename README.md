@@ -1,8 +1,16 @@
 # BuyerForesight Backend Assignment
 
+## Video Link
+
+https://drive.google.com/file/d/1eGNv5FT40ksFdYkGaZ_FBKvpOXdszvnC/view?usp=sharing
+
 ## Setup
+npm init -y
+
+npm install express uuid
 
 npm install
+
 npm start
 
 ## API Endpoints
